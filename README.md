@@ -1,6 +1,6 @@
 # Quai
 
-Tege master data vault
+Tegebu master data vault
 
 ## License
 
